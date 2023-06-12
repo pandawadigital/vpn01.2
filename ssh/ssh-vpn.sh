@@ -304,7 +304,7 @@ wget -O menu-webmin "https://raw.githubusercontent.com/artanodrop/v4/main/menu/m
 wget -O speedtest "https://raw.githubusercontent.com/artanodrop/v4/main/ssh/speedtest_cli.py"
 wget -O about "https://raw.githubusercontent.com/pandawadigital/vpn01.2/main/menu/about.sh"
 wget -O auto-reboot "https://raw.githubusercontent.com/artanodrop/v4/main/menu/auto-reboot.sh"
-wget -O restart "https://raw.githubusercontent.com/artanodrop/v4/main/menu/restart.sh"
+wget -O restart "https://raw.githubusercontent.com/pandawadigital/vpn01.2/main/restarts.sh"
 wget -O bw "https://raw.githubusercontent.com/artanodrop/v4/main/menu/bw.sh"
 
 # change port
@@ -355,7 +355,7 @@ chmod +x menu-webmin
 chmod +x speedtest
 chmod +x about
 chmod +x auto-reboot
-chmod +x restart
+chmod +x restarts
 chmod +x bw
 
 chmod +x port-ssl
