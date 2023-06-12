@@ -223,7 +223,7 @@ gg="AM"
 fi
 curl -sS ifconfig.me > /etc/myipvps
 echo " "
-echo "=====================-[ SCRIPT ANDY YUDA TUNNEL ]-===================="
+echo "=====================-[ SCRIPT PANDAWA DIGITAL TUNNEL ]-===================="
 echo ""
 echo "------------------------------------------------------------"
 echo ""
@@ -264,7 +264,7 @@ echo ""
 echo ""
 echo "------------------------------------------------------------"
 echo ""
-echo "===============-[ Script Created By ANDY YUDA ]-==============="
+echo "===============-[ Script Created By PANDAWA DIGITAL ]-==============="
 echo -e ""
 echo ""
 echo "" | tee -a log-install.txt
