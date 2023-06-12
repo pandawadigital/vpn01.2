@@ -324,6 +324,6 @@ case $opt in
 99) clear ; clearcache ;;
 6969) clear ; wget https://raw.githubusercontent.com/pandawadigital/vpn01.2/main/update.sh && chmod +x update.sh && ./update.sh && rm -f /root/update.sh ;;
 0) clear ; menu ;;
-x) exit 
+x) exit ;;
 *) echo -e "" ; echo "Press any key to back exit" ; sleep 1 ; exit ;;
 esac
