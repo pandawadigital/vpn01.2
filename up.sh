@@ -107,7 +107,7 @@ wget -O restore "https://raw.githubusercontent.com/pandawadigital/vpn01.2/main/b
 wget -O jam "https://raw.githubusercontent.com/artanodrop/v4/main/jam.sh"
 wget -q -O /usr/bin/up "https://raw.githubusercontent.com/pandawadigital/vpn01.2/main/up.sh" && chmod +x /usr/bin/up
 wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/pandawadigital/vpn01.2/main/menu/fix.sh" && chmod +x /usr/bin/fix
-wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget https://raw.githubusercontent.com/kanghory/VPN/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 
 chmod +x menu
 chmod +x menu-trial
